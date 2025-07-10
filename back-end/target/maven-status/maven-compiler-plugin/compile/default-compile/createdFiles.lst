@@ -1,0 +1,7 @@
+com\example\ml_loan_approval_project\service\LoanApprovalService.class
+com\example\ml_loan_approval_project\model\LoanDecision.class
+com\example\ml_loan_approval_project\util\WebConfig.class
+com\example\ml_loan_approval_project\controller\LoanController.class
+com\example\ml_loan_approval_project\LoanApprovalApplication.class
+com\example\ml_loan_approval_project\model\Applicant.class
+com\example\ml_loan_approval_project\util\PromptBuilder.class
